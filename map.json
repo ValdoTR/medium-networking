@@ -852,7 +852,7 @@
     {
       "name":"mapCopyright",
       "type":"string",
-      "value":"Credits: Nicolas Peguin https:\/\/www.linkedin.com\/in\/nicolaspeguin\/ \nLicence: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
+      "value":"CC-BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)"
     },
     {
       "name":"mapDescription",
